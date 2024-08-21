@@ -9,4 +9,4 @@ This repository contains the scripts, modules and plotting notebooks for the pap
 
 `notebooks/` folder contains different notebooks for the different panels of the figures plotted in the paper
 
-`data/` folder contains all the data generated from the scripts used for plotting in the notebooks
+`data/` folder contains all the data generated from the scripts used for plotting in the notebooks. It has been compressed for uploading purposes. Please decompress before running notebooks
